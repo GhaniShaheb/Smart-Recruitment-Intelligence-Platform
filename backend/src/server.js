@@ -43,4 +43,4 @@ app.listen(5001, () => {
 //72uahkIRbAKYA7oL
 //mongodb+srv://ismaeelghani_db_user:72uahkIRbAKYA7oL@cluster0.34gyjy4.mongodb.net/?appName=Cluster0//question mark er baame db name deya lagbe
 //mongodb://ismaeelghani_db_user:72uahkIRbAKYA7oL@ac-sjnstjb-shard-00-00.34gyjy4.mongodb.net:27017,ac-sjnstjb-shard-00-01.34gyjy4.mongodb.net:27017,ac-sjnstjb-shard-00-02.34gyjy4.mongodb.net:27017/smarthr?ssl=true&replicaSet=atlas-wieqbm-shard-0&authSource=admin&appName=Cluster0
-//mongodb+srv://samiranaahee2019_db_user:l2m5WAkGCnLmetGa@cluster0.lkvbymp.mongodb.net/?appName=Cluster0
+//mongodb://samiranaahee2019_db_user:l2m5WAkGCnLmetGa@ac-zdemtdi-shard-00-00.lkvbymp.mongodb.net:27017,ac-zdemtdi-shard-00-01.lkvbymp.mongodb.net:27017,ac-zdemtdi-shard-00-02.lkvbymp.mongodb.net:27017/?ssl=true&replicaSet=atlas-c1kkkv-shard-0&authSource=admin&appName=Cluster0
